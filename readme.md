@@ -1,1 +1,1 @@
-This is my personal profile website.
+This is my portfolio website.
